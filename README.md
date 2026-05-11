@@ -1,4 +1,5 @@
 Author: Gabriel Ken Kudo de Lima.
+
 Nesse repositório há alguns exercícios já passados e solucionados antes. Foram passados para modularização.
 
 18. Receba 2 valores inteiros. Calcule e mostre o resultado da diferença do maior pelo menor valor.
